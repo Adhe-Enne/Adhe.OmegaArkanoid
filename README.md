@@ -9,7 +9,7 @@ No obstante, me siento orgulloso del desarrollo más desafiante que tuve para es
 
 Dejo la main branch como registro de mi primer proyecto, eventualmente hare mejoras en otra branch.
 
-Estee proyecto fue realizado en Julio de 2020 (Situacion de pandemia en Argentina).
+Este proyecto fue realizado en Julio de 2020 (Situacion de pandemia en Argentina).
 
 
 ## Capturas
