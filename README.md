@@ -1,6 +1,6 @@
 # Adhe.OmegaArkanoid
 
-En este repositorio encontraran un proyecto realizado específicamente como final aprobatorio de una materia de programación (Programación II - UTN FRGP), tiene un peso un tanto personal al ser uno de los primeros proyectos que realice con mucho esfuerzo, este proyecto fue realizado en Julio de 2020.
+En este repositorio encontraran un proyecto realizado específicamente como final aprobatorio de una materia de programación (Programación II - UTN FRGP), tiene un peso un tanto personal al ser uno de los primeros proyectos que realice con mucho esfuerzo.
 Originalmente fue desarrollado en CodeBlocks, sin embargo, esta versión esta migrada a Microsoft Visual Studio por ser más amigable en el manejo de paquetes y extensiones.
 
 Fue desarrollado en mis inicios de estudiante programador, esto resulto en un código con la mejor de las "No Buenas Prácticas" que seguramente hayan visto, aun mas, tuve menos de un mes para realizarlo, no tenia conocimientos de librerías graficas ni que tan posible era el desarrollo en C++ asi también en CodeBlocks, la lógica empleada no es la mejor.
@@ -9,6 +9,7 @@ No obstante, me siento orgulloso del desarrollo más desafiante que tuve para es
 
 Dejo la main branch como registro de mi primer proyecto, eventualmente hare mejoras en otra branch.
 
+Estee proyecto fue realizado en Julio de 2020 (Situacion de pandemia en Argentina).
 
 
 ## Capturas
