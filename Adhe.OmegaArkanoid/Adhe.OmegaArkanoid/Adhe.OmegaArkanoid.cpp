@@ -1,0 +1,36 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+#include <iostream>
+#include <sstream>
+#include <cstdlib>
+#include <ctime>
+#include <fstream>
+#include <string>
+
+#include <math.h>
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+#include <SFML/Window.hpp>
+#include <SFML/Graphics.hpp>
+#include <Windows.h>
+#include <SFML/Audio.hpp>
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+using namespace std;
+using namespace sf;
+
+#include "Headers/PathResources.h"
+#include "Headers/UtilidadesNecesarias.h"
+#include "Headers/Classes.h"
+#include "Headers/ClassArkanoid.h"
+#include "Headers/InteraccionesClases.h"
+#include "Headers/ArkanoidManager.h"
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+int main()
+{
+	ArkanoidManager StartGame;
+	StartGame.PlayArkanoid();
+
+	return 0;
+}
+
