@@ -1,16 +1,18 @@
 # Adhe.OmegaArkanoid
 
-En este repositorio encontraran un proyecto realizado específicamente como final aprobatorio de una materia de programación (Programación II - UTN FRGP), tiene un peso un tanto personal al ser uno de los primeros proyectos que realice con mucho esfuerzo.
-Originalmente fue desarrollado en CodeBlocks, sin embargo, esta versión esta migrada a Microsoft Visual Studio por ser más amigable en el manejo de paquetes y extensiones.
+En este repositorio se encuentra un proyecto desarrollado como trabajo final aprobatorio para la materia Programación II (UTN FRGP). Este proyecto tiene un gran valor personal, ya que fue uno de los primeros que realicé con mucho esfuerzo y dedicación.
 
-Fue desarrollado en mis inicios de estudiante programador, esto resulto en un código con la mejor de las "No Buenas Prácticas" que seguramente hayan visto, aun mas, tuve menos de un mes para realizarlo, no tenia conocimientos de librerías graficas ni que tan posible era el desarrollo en C++ asi también en CodeBlocks, la lógica empleada no es la mejor.
+Originalmente fue desarrollado en Code::Blocks, pero esta versión ha sido migrada a Microsoft Visual Studio, ya que ofrece un entorno más amigable para el manejo de paquetes y extensiones.
 
-No obstante, me siento orgulloso del desarrollo más desafiante que tuve para ese momento, sin tener conocimientos de absolutamente ninguna herramienta más que operaciones tipo CRUD en consola.
+El proyecto fue realizado durante mis inicios como estudiante de programación, lo que se refleja en un código con un estilo lejos de las mejores prácticas actuales. Contaba con menos de un mes para completarlo, y mi conocimiento en ese momento se limitaba a operaciones CRUD en consola. Además, desconocía librerías gráficas o las posibilidades que ofrecía C++ para desarrollar más allá de las herramientas básicas que utilizaba en Code::Blocks.
 
-Dejo la main branch como registro de mi primer proyecto, eventualmente hare mejoras en otra branch.
+A pesar de ello, este proyecto representó un desafío enorme para mí en su momento, y me siento orgulloso del resultado obtenido bajo esas condiciones.
 
-Este proyecto fue realizado en Julio de 2020 (Situacion de pandemia en Argentina).
+He dejado la rama principal (main branch) como registro de este primer proyecto, y planeo realizar mejoras en una rama separada en el futuro.
 
+Cabe destacar que este proyecto fue realizado en julio de 2020, durante la situación de pandemia en Argentina.
+
+Breve demostracion en youtube: https://www.youtube.com/watch?v=2DNR1YiHM-Y
 
 ## Capturas
 
